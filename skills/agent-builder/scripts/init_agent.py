@@ -208,9 +208,9 @@ if __name__ == "__main__":
 }
 
 ENV_TEMPLATE = '''# API Configuration
-ANTHROPIC_API_KEY=sk-xxx
-ANTHROPIC_BASE_URL=https://api.anthropic.com
-MODEL_NAME=claude-sonnet-4-20250514
+ANTHROPIC_API_KEY=sk-1b7ba40430c348de80803ba7a7878252
+ANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic
+MODEL_NAME=deepseek-chat
 '''
 
 
